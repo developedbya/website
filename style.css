@@ -628,6 +628,8 @@ main h2 {
     .container {
         align-items: center; /* aligns items at top instead of centering vertically */
        padding-top:0px;
+       padding-left:30px;
+       padding-right:10px;
       }
   }
 
